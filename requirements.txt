@@ -1,0 +1,5 @@
+PyQt5
+python-dotenv
+google-generativeai
+crewai
+langchain-google-genai
